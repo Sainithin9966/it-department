@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Department of Information Technology</b><br/>
-  Empowering innovation through technology & real-world solutions 🚀
+  Empowering innovation through technology & real-world solutions
 </p>
 
 ---
